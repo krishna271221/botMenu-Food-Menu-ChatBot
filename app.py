@@ -32,7 +32,7 @@ def chat():
     path = os.path.join(current_directory, GOOGLE_AUTHENTICATION_FILE_NAME)
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = path
 
-    GOOGLE_PROJECT_ID = "chatbot-qsod"
+    GOOGLE_PROJECT_ID = "your_project_ID"
     session_id = "1234567891"
     context_short_name = "does_not_matter"
 
