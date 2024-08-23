@@ -1,4 +1,4 @@
-# Creating Chatbot Using Python Flask & DialogFlow
+# Chatbot Using Python Flask & DialogFlow
 
 ## REQUIRED LIBRARIES
 ```
